@@ -1,4 +1,5 @@
 1.DataDriven
 2.Screenshots(ItestAnalyzer)
 3.Dynamic xpath
-4.extend reports?
+4.extent reports?
+retry analyzer
