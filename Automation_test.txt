@@ -2,4 +2,6 @@
 2.Screenshots(ItestAnalyzer)
 3.Dynamic xpath
 4.extent reports?
-retry analyzer
+5.retry analyzer
+6.adding audio call
+7.adding video call
